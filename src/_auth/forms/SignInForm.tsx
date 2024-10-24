@@ -1,9 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const SignInForm = () => {
-  return (
-    <div>SignInForm</div>
-  )
-}
+  return <div>SignInForm</div>;
+};
 
-export default SignInForm
+export default SignInForm;
